@@ -84,7 +84,7 @@ ____________________________________________________
   - Random Class
 
     [_java.util.Random_](https://docs.oracle.com/javase/7/docs/api/java/util/Random.html)<br>
-    의사난수 발생(Pseudorandom number generator)을 해주는 Class 이다.
+    의사난수 발생(Pseudorandom number generator)을 제공해주는 API 이다.
 
     - Random Class 생성자
 
