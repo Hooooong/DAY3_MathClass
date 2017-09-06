@@ -5,8 +5,8 @@ JAVA Programing
 ###### 예제
 ____________________________________________________
 
-  - [1부터 Max까지 총, 짝수, 홀수 합 구하기 ]()
-  - [로또 번호 구하기]()
+  - [1부터 Max까지 총, 짝수, 홀수 합 구하기 ](https://github.com/Hooooong/DAY3_MathClass/blob/master/src/AlgoMain.java)
+  - [로또 번호 구하기](https://github.com/Hooooong/DAY3_MathClass/blob/master/src/AlgoMath.java)
 
 ###### 공부정리
 ____________________________________________________
@@ -20,7 +20,7 @@ ____________________________________________________
 
         - Math Class 는 생성자가 없고, static 클래스이다.
 
-    - [Math Class의 주요 메소드]()
+    - [Math Class의 주요 메소드](https://github.com/Hooooong/DAY3_MathClass/blob/master/src/AlgoMath.java)
 
         - abs() : 절대값
 
@@ -95,7 +95,7 @@ ____________________________________________________
         Random random = new Random(long seed);
         ```
 
-    - [Math Class의 주요 메소드]()
+    - Math Class의 주요 메소드
 
         - nextInt() : 정수 난수 생성
 
