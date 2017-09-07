@@ -1,24 +1,6 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
-import java.util.List;
 import java.util.Random;
-import java.util.Set;
-import java.util.TreeSet;
 
 public class AlgoMath {
-	
-	public static void main(String[] args) {
-		AlgoMath algoMath = new AlgoMath();
-		int lottoNumber[] = algoMath.getLottoNumber();
-		
-		for(int number : lottoNumber) {
-			System.out.print(number + "\t");
-		}
-		System.out.println();
-		
-		double e = Math.floor(123.45);
-	}
 	
 	public void testMath() {
 		//Math math = new Math();
