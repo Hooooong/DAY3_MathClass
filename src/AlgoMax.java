@@ -4,20 +4,7 @@
  * @author Android Hong
  *
  */
-public class AlgoMain {
-	
-	public static void main(String[] args) {
-
-		AlgoMain algoMain = new AlgoMain();
-		long result = algoMain.sum(99);
-		System.out.println(result);
-		
-		long evenResult = algoMain.evenSum(4);
-		System.out.println(evenResult);
-		
-		long oddResult = algoMain.oddSum(6);
-		System.out.println(oddResult);
-	}
+public class AlgoMax {
 	
 	/**
 	 * 1부터 max 까지의 합을 구하는 메소드

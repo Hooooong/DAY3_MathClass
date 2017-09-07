@@ -1,12 +1,12 @@
 JAVA Programing
 ----------------------------------------------------
-#### 3일차
+#### 2017.09.06 3일차
 
 ###### 예제
 ____________________________________________________
 
-  - [1부터 Max까지 총, 짝수, 홀수 합 구하기 ](https://github.com/Hooooong/DAY3_MathClass/blob/master/src/AlgoMain.java)
-  - [로또 번호 구하기](https://github.com/Hooooong/DAY3_MathClass/blob/master/src/AlgoMath.java)
+  - [1부터 Max까지 총, 짝수, 홀수 합 구하기 ](https://github.com/Hooooong/DAY3_MathClass/blob/master/src/AlgoMax.java)
+  - [로또 번호 구하기](https://github.com/Hooooong/DAY3_MathClass/blob/master/src/AlgoLotto.java)
 
 ###### 공부정리
 ____________________________________________________
